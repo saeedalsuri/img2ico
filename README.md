@@ -2,7 +2,7 @@
 
 A simple Windows desktop application to convert images (PNG, JPG, BMP, GIF) to ICO format with multiple icon sizes.
 
-![img2ico](icon.png)
+![img2ico](screenshot.png)
 
 ## Features
 

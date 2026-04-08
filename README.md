@@ -8,6 +8,14 @@ A simple Windows desktop application to convert images (PNG, JPG, BMP, GIF) to I
 
 ![screenshot](screenshot.png)
 
+## Other Apps
+
+This repository also helps create icons for other apps that I implemented:
+
+- [MusicMaker](https://github.com/saeedalsuri/MusicMaker) - A desktop app for generating music prompts for Suno AI CLI.
+
+![MusicMaker Icon](https://github.com/saeedalsuri/img2ico/releases/download/v1.0/MusicMaker-icon.png)
+
 ## Features
 
 - **Drag & Drop**: Easily add images by dragging them into the application
